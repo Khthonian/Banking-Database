@@ -62,3 +62,6 @@ Feel free to use this SQL code as a starting point for setting up your bank data
 **Please make sure to review and modify the SQL code as needed to match your specific requirements and database environment.**
 
 For more information on SQL syntax and database management, refer to the documentation of your specific database management system.
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
